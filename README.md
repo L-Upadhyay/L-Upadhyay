@@ -1,7 +1,5 @@
 # Lucky Upadhyay
 
-Data & AI | Consulting Background → AI Engineering
-
 Building AI systems at the intersection of enterprise workflows and LLMs.
 
 ## Focus Areas
