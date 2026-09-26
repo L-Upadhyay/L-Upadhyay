@@ -1,17 +1,39 @@
-# Lucky Upadhyay
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a5f,100:0e7490&height=180&section=header&text=Lucky%20Upadhyay&fontSize=56&fontColor=f8fafc&fontAlignY=38&desc=AI%20systems%20for%20enterprise%20and%20finance&descSize=17&descAlignY=60&descColor=cbd5e1" width="100%" />
 
-Building AI systems at the intersection of enterprise workflows and LLMs.
+<p align="center">
+  <a href="https://linkedin.com/in/luckyupadhyay"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
-## Focus Areas
-- AI Agents & Orchestration
-- Retrieval-Augmented Generation (RAG)
-- Model Context Protocol (MCP)
-- Applied LLMs in Enterprise
+5+ years in enterprise analytics at PwC and EY. I build AI systems that work on real financial and regulatory documents, and I measure where they fail.
 
-## Links
-- Website: luckyupadhyay.dev
-- LinkedIn: linkedin.com/in/lucky-upadhyay
-- Medium: medium.com/@luckyupadhyay
+---
 
-## Stack
-Python · Claude API · LangGraph · SQL · VS Code
+### Selected work
+
+- **[llm_fin_audit](https://github.com/L-Upadhyay/llm_fin_audit)** — catches LLM hallucinations in financial analysis. A deterministic layer (CSP solver, rule engine, anomaly detection) verifies an LLM agent team before any verdict reaches the user.
+- **[irs-tax-rag](https://github.com/L-Upadhyay/irs-tax-rag)** — grounded Q&A over 220 pages of IRS publications with page-level citations. Traced a retrieval failure to compound-query dilution through controlled tests and showed query decomposition fixes it.
+- **[competitor-research-agent](https://github.com/L-Upadhyay/competitor-research-agent)** — LangGraph multi-agent system with human checkpoints, retries, a search budget, and source guardrails enforced in code.
+
+---
+
+### What I bring
+
+| 🤖 **Applied AI systems** | 🔍 **Evaluation & trust** | 🏢 **Enterprise translation** |
+|---|---|---|
+| RAG over regulatory documents | Hallucination detection with deterministic checks | 5+ years at PwC and EY |
+| Multi-agent workflows with human checkpoints | Controlled retrieval experiments | Scoping ambiguous problems into buildable systems |
+| Guardrails enforced in code, not prompts | Stress tests, refusals, injection resistance | Explaining models to people who don't read code |
+
+---
+
+### Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0B0F19?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
