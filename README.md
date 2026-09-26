@@ -28,12 +28,13 @@
 
 ### Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0B0F19?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=uv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0e7490?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0e7490?style=for-the-badge&logo=postgresql&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1e3a5f?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1e3a5f?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-1e3a5f?style=for-the-badge&logo=openai&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1e3a5f?style=for-the-badge&logo=ollama&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-64748b?style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/Streamlit-64748b?style=for-the-badge&logo=streamlit&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-64748b?style=for-the-badge&logo=pytest&logoColor=white)
+![uv](https://img.shields.io/badge/uv-64748b?style=for-the-badge&logo=uv&logoColor=white)
